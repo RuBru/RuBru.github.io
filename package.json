@@ -2,6 +2,12 @@
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
+  "scripts": {
+    "start": "hexo generate && hexo server",
+    "test": "echo 'asdf\\ asdf'",
+    "build": "hexo generate",
+    "print": "hexo generate && git co gh-pages && mv public/* . && git add . && git commit -m AutomaticUpdate && git push && git co master && echo Done"
+  },
   "hexo": {
     "version": "3.5.0"
   },
