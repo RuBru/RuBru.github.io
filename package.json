@@ -4,7 +4,6 @@
   "private": true,
   "scripts": {
     "start": "hexo generate && hexo server",
-    "test": "echo 'asdf\\ asdf'",
     "build": "hexo generate",
     "print": "hexo generate && git co gh-pages && git rm -r . && git co HEAD .gitignore && mv public/* . && git add . && git commit -m AutomaticUpdate && git push && git co master && echo Done"
   },

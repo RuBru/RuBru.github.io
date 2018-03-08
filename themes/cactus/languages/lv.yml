@@ -1,0 +1,38 @@
+nav:
+  home: Mājas
+  about: Par
+  articles: Sarunas un raksti
+  projects: Forši resursi
+  search: Es gribu meklēt
+
+footer:
+  copyright: Autortiesības
+
+index:
+  find_me_on: Atrodi mani
+  enum_comma: ','
+  enum_and: and
+  articles: Sarunas un raksti
+  projects: Forši resursi
+
+post:
+  desktop:
+    previous: Iepriekšējā
+    next: Nākamā
+    back_to_top: Uz augšu!
+    share: Dalīties
+  mobile:
+    menu: Izvēlne
+    toc: Saturs
+    back_to_top: Uz augšu!
+    share: Dalīties
+
+search:
+  search: Es gribu meklēt
+  no_results: Neko neatradu :(
+
+pagination:
+  page: Lapa nr. %d no %d
+
+comments:
+  no_js: Lūdzu, atļauj darboties JavaScript, ja vēlies redzēt komentārus!
