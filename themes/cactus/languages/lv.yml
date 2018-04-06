@@ -6,12 +6,12 @@ nav:
   search: Es gribu meklēt
 
 footer:
-  copyright: Autortiesības
+  copyright: autortiesības
 
 index:
   find_me_on: Atrodi mani
   enum_comma: ','
-  enum_and: and
+  enum_and: un
   articles: Sarunas un raksti
   projects: Forši resursi
 
