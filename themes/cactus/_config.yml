@@ -13,7 +13,7 @@ projects_url: http://github.com/probberechts
 # languages/*.yml
 nav:
   home: /
-  about: /about/
+  about: /Par/
   articles: /archives/
   projects: projects_url
 
@@ -23,8 +23,6 @@ nav:
 # (see https://fontawesome.com/icons?d=gallery&s=brands);
 # only 'mail' is an exception.
 social_links:
-  github: http://github.com/probberechts/cactus-dark
-  twitter: /
   facebook: https://www.facebook.com/rota.bruuna
   linkedin: https://www.linkedin.com/in/rota-bruna
   mail: mailto:name@email.com
