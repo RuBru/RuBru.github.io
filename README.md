@@ -19,3 +19,5 @@ Docs to keep open:
 * [Hexo theme "Cactus"](https://github.com/probberechts/hexo-theme-cactus)
 * [Git](https://git-scm.com/doc)
 
+Save in Github:
+* `git push`
