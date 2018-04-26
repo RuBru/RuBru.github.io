@@ -21,3 +21,6 @@ Docs to keep open:
 
 Save in Github:
 * `git push`
+
+Move between console and here:
+* `CTRL + ` `
