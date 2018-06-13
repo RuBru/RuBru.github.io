@@ -2,7 +2,7 @@ nav:
   home: Mājas
   about: Par
   articles: Sarunas un raksti
-  projects: Forši resursi
+  projects: Resursi
   search: Es gribu meklēt
 
 footer:
@@ -13,7 +13,7 @@ index:
   enum_comma: ','
   enum_and: un
   articles: Sarunas un raksti
-  projects: Noderīgi resursi
+  projects: Resursi
 
 post:
   desktop:
