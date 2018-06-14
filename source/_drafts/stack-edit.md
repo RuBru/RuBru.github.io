@@ -1,6 +1,5 @@
 ---
-title: n9saukums
-date: 2018-02-27 19:50:17
+title: stack-edit
 tags:
 ---
 # Welcome to StackEdit!
