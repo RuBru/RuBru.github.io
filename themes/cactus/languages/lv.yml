@@ -1,12 +1,12 @@
 nav:
-  home: Mājas
+  home: Sākums
   about: Par
   articles: Sarunas un raksti
   projects: Resursi
-  search: Es gribu meklēt
+  search: Meklēt
 
 footer:
-  copyright: autortiesības
+  copyright: Autortiesības
 
 index:
   find_me_on: Mani vari atrast -
@@ -19,20 +19,20 @@ post:
   desktop:
     previous: Iepriekšējā lapa
     next: Nākamā lapa
-    back_to_top: Uz augšu!
+    back_to_top: Augšup
     share: Dalies!
   mobile:
     menu: Izvēlne
     toc: Saturs
-    back_to_top: Uz augšu!
+    back_to_top: Augšup
     share: Dalies!
 
 search:
-  search: Es gribu meklēt
+  search: Es gribu atrast ...
   no_results: Neko neatradu :(
 
 pagination:
   page: Lapa nr. %d no %d
 
 comments:
-  no_js: Lūdzu, atļauj strādāt JavaScript, ja vēlies redzēt komentārus!
+  no_js: Lūdzu, ļauj darboties JavaScript, ja vēlies redzēt komentārus!

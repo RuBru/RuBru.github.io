@@ -56,7 +56,7 @@ Aplikācija, kurā tu neaiztiekot savu viedo ierīci audzē kokus jeb skaistā u
 ## [Social Fixer](https://socialfixer.com/ "Social Fixer")
 Facebook add-on's, kas palīdz nepavadīt šajā laika zaglī tik daudz enerģijas. Labākās add-on'a fīčas, manuprāt, ir ierakstu skaita ierobežojums, lieko lapas zonu noņemšana un nesenāko ierakstu automātiska izvēlēšanās. Arī iesaku!
 
-# Tīrākā izklaide par tēmu
+# Izklaide
 
 ## [Ko man darīt ar savu dzīvi?](http://www.wtfshouldidowithmylife.com/ "wft should I do with my life?")
 Lapa, kurā iepazīt visdažādākās profesijas caur video intervijām.
