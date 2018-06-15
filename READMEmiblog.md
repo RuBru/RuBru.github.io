@@ -4,6 +4,7 @@
 
 At the start:
 
+* `git co dev`
 * `yarn run start` to launch blog locally
 * open http://localhost:4000/miblog
 
