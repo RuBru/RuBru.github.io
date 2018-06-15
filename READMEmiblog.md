@@ -4,7 +4,7 @@
 
 At the start:
 
-* `git co dev`
+* `git co dev` to change location to dev tree (can be another tree too)
 * `yarn run start` to launch blog locally
 * open http://localhost:4000/miblog
 
