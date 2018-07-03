@@ -36,8 +36,7 @@ Ar morālo prieku saprot ļoti īpašu labu sajūtu, kuru var radīt tikai ļoti
 Šajā blogā tiks izmantots **saprātīgais** un **morālais** prieka veids jeb precīzāk mikslis starp abiem - kurš nu kurā brīdī vairāk atbilst lietas būtībai. Pilnīgi droši gan varu teikt, ka emocionālais prieks nav tas, par kuru vēlos runāt, ja runa ir par darbu. Tas ir pārāk īslaicīgs, līdz ar to uz to nevar paļauties tik ilglaicīgā lietā kā darbs.
 <br>
 Tas nu šodienai arī viss.
-<br>
-</br>
+# -------------------------------
 Ja ir interese un angļu valodas zināšanas, zemāk vari atrast orģinālos grāmatas fragmentus no izmantotās  [prieka grāmatas](https://en.wikipedia.org/wiki/Stumbling_on_Happiness "Stumbling on Happiness").
 
 #### 1
