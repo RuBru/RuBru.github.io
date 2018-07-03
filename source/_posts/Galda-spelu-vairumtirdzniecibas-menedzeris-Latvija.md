@@ -9,7 +9,7 @@ tags: saruna
 **Vidējais darba laiks**: 0.75 slodzes vasarā - 1.5 ziemā.
 **Darbavietā nostrādāts**: 2.5 gadi
 > Man patīk daudz strādāt. Esmu darbaholiķis.
-
+---------
 ## Darbs, kas rada prieku
 ### Kāds ir tavs oficiālais amats?
 Neatceros, visu laiku mainās. Visu laiku es biju galda spēļu skolotājs, bet tagad esmu vairumtirdzniecības menedžeris Latvijā.
@@ -62,7 +62,7 @@ Uzreiz. Ne gluzi no pirmās dienas, tad vēl visu nesapratu, bet pēc pirmā mē
 
 ## Sākums
 ### Tev patika savs darbs uzreiz vai iepatikās vēlāk?
-Uzreiz. Kad sapratu, kas jādara. Es sāku ar braukāšanu pa reģioniem, pa veikaliem apmācīt darbiniekus<sup>[1](#1)</sup>. Sarunāju, kur jābrauc un vienkārši izbraucu. Kas arī bija forši - vienkārši braukāties pa Latviju. Augustā izbraukāju visus 22 veikalus Latvijā 9 dienās. Man bija kaut kādi 1'500 nobraukut kilometru.
+Uzreiz. Kad sapratu, kas jādara. Es sāku ar braukāšanu pa reģioniem, pa veikaliem apmācīt darbiniekus[^apm]. Sarunāju, kur jābrauc un vienkārši izbraucu. Kas arī bija forši - vienkārši braukāties pa Latviju. Augustā izbraukāju visus 22 veikalus Latvijā 9 dienās. Man bija kaut kādi 1'500 nobraukut kilometru.
 
 Un pēc tam principā man ar katru nākamo dienu deva arvien jaunus pienākumus un man viņi visi patika, tā kā galīgi nevar sūdzēties. Un ar katru pienākumu arī uzreiz algu pielika. Pirms tam biju strādājis tikai Lulū picā un uzreiz pelnīju vairāk kā Lulū un tad alga strauji auga un bija sajūta, jā, šis ir forši!
 
@@ -78,12 +78,12 @@ Vēl esmu vācis ogas vasarā, bet tā tāda kabatas nauda. Pēc 12. klases stra
 ### Kā tu atradi savu esošo darbavietu?
 Pārāk labi neatceros, jo tas notika pirms 2.5 gadiem. Bet pieņemu, ka uzrakstīju bakalauru un baigi neiespringstot sāku meklēt. Pēc izlaiduma (jūnija beigās) sapratu, ka ir jāsāk strādāt. Pieteicos uz kaut kādiem tur random darbiem, neko foršu neatradu. Biju pārliecināts, ka neko vērtīgu neatradīšu, baigi pilnu slodzi nemeklēju, jo biju plānojis iet mācīties.
 
-Laikam jūlija trešajā nedēļā sapratu, ka reāli vajadzēja sākt strādāt - pilnīgi nauda beigusies. Atradu darbu kā promoteris<sup>[2](#2)</sup>. Viņi bija atsūtījuši grafiku, bet līgums vēl laikam nebija parakstīts. Domāju - baigi labs darbs, tā kā jau biju iesācis šajā studiju programmā mācīties iepriekš, pirmajā studiju semestrī man pārskaitītu 16 KP un pašās studijās varēšu baigi neiespringt. 
+Laikam jūlija trešajā nedēļā sapratu, ka reāli vajadzēja sākt strādāt - pilnīgi nauda beigusies. Atradu darbu kā promoteris[^promo]. Viņi bija atsūtījuši grafiku, bet līgums vēl laikam nebija parakstīts. Domāju - baigi labs darbs, tā kā jau biju iesācis šajā studiju programmā mācīties iepriekš, pirmajā studiju semestrī man pārskaitītu 16 KP un pašās studijās varēšu baigi neiespringt. 
 
 Biju ballītē, atnāku mājās un facebookā redzu, ka galda spēļu uzņēmums meklē darbinieku. Būs kaut kas jāorganizē, būs kaut kur jabrauc, būs jāmāca spēles spēlēt, meklē nepilna laika cilvēku. Un es domāju - neko labāku nevar vēlēties. Gadījuma rakstura darbs, kādas 30 - 60 stundas mēnesī - lieliski, tieši to varu apvienot!
 
 ### Kā notika Tava darba intervija?
-Mans priekšnieks visiem to stāsta. Man bija intervija 7.30 no rīta. Mēs kopā aizbraucām apmācībās uz Jelgavu<sup>[1](#1)</sup>. Gandrīz vispār neesmu braucis ar mašīnu (Rīgā vispār nē) un mani pieliek pie stūres. 
+Mans priekšnieks visiem to stāsta. Man bija intervija 7.30 no rīta. Mēs kopā aizbraucām apmācībās uz Jelgavu[^apm]. Gandrīz vispār neesmu braucis ar mašīnu (Rīgā vispār nē) un mani pieliek pie stūres. 
 
 Pa ceļam izrunājam parastās intervijas lietas. Izbraucam 2 veikalus un mana intervija reāli bija tests. Viņš pirmajā veikalā izstāsta visas spēles un es malā klausos. No tām spēlēm es nevienu nezinu, varbūt kādas 2, 3 esmu spēlējis. 
 
@@ -111,7 +111,7 @@ Vienīgais aktuālais jautājums, ko cilvēki diskutē ir Fizmatu domāšana. Ne
 Daudz.
 * Dotajā brīdī tautasdejas. Nevis Dziesmu svētku dēļ, bet tāpēc, ka man patīk.
 * Cenšos 2 reizes nedēļā spēlēt pludmales volejbolu ar darba kolēģiem pa rītiem.
-* Tagad apņemšanās noskriet maratonu ar spēcīgu laiku (zem 5min uz kilometru). Pirmoreiz mūžā skriešu Spēks un Jauda<sup>[3](#3)</sup>.
+* Tagad apņemšanās noskriet maratonu ar spēcīgu laiku (zem 5min uz kilometru). Pirmoreiz mūžā skriešu Spēks un Jauda[^SJ].
 * Spēlēju galda spēles ar draugiem taisam paši savu galda spēli.
 * Cenšos daudz iet uz kino.
 * Mēģinu pavadīt laiku ar draugiem.
@@ -132,11 +132,13 @@ Atalgojumam atsevišķa skala. Šis ir vienīgais punkts, kas man nepatīk, grib
 Esmu ļoti strikts. Līdz gadiem 30 neticu, ka man varētu būt atzīme 10.
 
 *Autora piezīme*: Pāris nedēļas pēc intervijas sazinājos ar intervēto puisi un uzzināju, ka algas pielikums ir noticis un viņš tagad ir pilnībā apmierināts ar savu darbu. Viņš vēlējās labot ielikto atzīmi:
+
 **Atzīme** (*labotā*): 9
-# ------------------------------
-#### 1
-**Apmācības** notiek tā, ka aizbraucam uz veikaliem, aptuveni 1.5 stundā izejam cauri 20-30 spēlēm. Pastāstam noteikumus - vienkāršākām spēlēm bez maz vai 30 sekundes, sarežģītākām vairāk.
-#### 2
-**Promoteris** - cilvēks, kas lielveikalos dod produktu stendos pārsvarā ēdiena vai dzēriena paraugus.
-#### 3
-**Spēks un Jauda** - ikgadējas piedzīvojumsacensības aprīļa pirmajā nedēļā, ko organizē Krūziņu pāris, viņu draugi un fizmati, kura nodarbojas ar aktīvo atpūtu.
+
+--------
+
+[^apm]: **Apmācības** notiek tā, ka aizbraucam uz veikaliem, aptuveni 1.5 stundā izejam cauri 20-30 spēlēm. Pastāstam noteikumus - vienkāršākām spēlēm bez maz vai 30 sekundes, sarežģītākām vairāk.
+
+[^promo]: **Promoteris** - cilvēks, kas lielveikalos dod produktu stendos pārsvarā ēdiena vai dzēriena paraugus.
+
+[^SJ]: **Spēks un Jauda** - ikgadējas piedzīvojumsacensības aprīļa pirmajā nedēļā, ko organizē Krūziņu pāris, viņu draugi un fizmati, kura nodarbojas ar aktīvo atpūtu.
