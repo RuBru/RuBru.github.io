@@ -366,7 +366,7 @@
   margin-bottom: 0.5rem;
 }
 .content hr {
-  border: 1 0 1 0px solid #2bbc8a;
+  border: 1px solid #2bbc8a;
   height: 0;
   opacity: 0.2;
 }
