@@ -17,29 +17,39 @@ Reiz ēdu pusdienas intelektuālā kompānijā un sarunu laikā nonācām līdz 
 
 **2.** Darbs ir veids kā pavadīt dienu, hobijs par kuru maksā. Darāms tikai, ja interesants un labi apmaksāts. Ja nav - labāk ir nestrādāt un jāmeklē kas cits, kur prātu un acis piesiet.
 
-**3.** Darbs ir ilglaicīgs process, lai sasniegtu vai vismaz pietuvotos nospraustajam mērķim jeb darba uzdevumam. Tajā tiek ieguldīti lieli laika un intelekta resursi un rezultāti tie mērīti pēc padarītā, nevis notērētā. Tas rada pievienoto vērtību. Darbs ir svarīga dzīves sastāvdaļa un nodrošina ne tikai finansiālu ieguvumu, bet arī intelektuālu un emocionālu pienesumu cilvēka dzīvē.  
+**3.** Darbs ir ilglaicīgs process, lai sasniegtu vai vismaz pietuvotos nospraustajam mērķim jeb darba uzdevumam. Tajā tiek ieguldīti lieli laika un intelekta resursi un rezultāti tie mērīti pēc padarītā, nevis notērētā. Tas rada pievienoto vērtību intelektuālā vai fiziskā izpausmē. Darbs ir svarīga dzīves sastāvdaļa un nodrošina ne tikai finansiālu ieguvumu, bet arī intelektuālu un emocionālu pienesumu paša cilvēka dzīvē.
 
-Šajā blogā tiks izmantota **trešā** no definīcijām. Tā, kuru pusdienu kompānijā pārstāvēju es. 
 ## Prieks
 Laikam nav nekā sarežģītāka kā nodefinēt terminu _prieks_. (Ja nu vienīgi nodefinēt terminu _laime_.) Tāpēc es mazliet painteresējos par šo terminu un grāmata [Stumbling on happiness](https://en.wikipedia.org/wiki/Stumbling_on_Happiness "Stumbling on Happiness") brīnišķīgā kārtā nemācīja man dzīvot, bet gan deva ieskatu mūsdienu prieka un laimes pētniecībā.
 
 Lai lieki negudrotu riteni no jauna, lūk, īss pārskats no grāmatas (ar manu tulkojumu), ko tad nozīmē vārds prieks:
-> Prieks[def] ir vārds, kas apvieno visu, ko par to vēlies nosaukt. Šis vārds tiek lietots daudzās un dažādās variācijās un iekļauj vismaz trīs atšķirīgas nozīmes: [emocionālais prieks](#emocionālais-prieks), [saprātīgais prieks](#saprātīgais-prieks) un [morālais prieks](#morālais-prieks).
+> Prieks[^def] ir vārds, kas apvieno visu, ko par to vēlies nosaukt. Šis vārds tiek lietots daudzās un dažādās variācijās un iekļauj vismaz trīs atšķirīgas nozīmes: [emocionālais prieks](#emocionālais-prieks), [saprātīgais prieks](#saprātīgais-prieks) un [morālais prieks](#morālais-prieks).
 
-### Emocionālais prieks[^emo]
-Ar emocionālo prieku saprot to visiem zināmo patīkamo sajūtu. Tā ir pārejoša, pārsvarā īslaicīga subjektīva pieredze, kad,  piemēram, apēd ko garšīgu, ieraugi ko skaistu utml. Tas ir vienkāršākais un visvieglāk uztveramais "prieka veids".
-### Saprātīgais prieks[^prats]
-Ar saprātīgo prieku saprot cilvēka vispārējo dzīves stāvokli, ko pats cilvēks sauc apmēram par "kopumā esmu apmierināts ar savu dzīvi". Arī izteikumi kā "esmu priecīgs, ka Imantas pedofīls beidzot ir noķerts" liecina par saprātīgā prieka izpausmēm. Saprātīgo prieku ir grūti saukt par sajūtu, drīzāk par veidu kā nodot apkārtējiem savas pārliecības un uzskatus. Paužot saprātīgo prieku parasti neatņemama sastāvdaļa ir mazie vārdiņi "ka" vai "par". Ja esi priecīgs *par kaut ko*, visticamāk endorfīni neskraida pa tavu ķermeni, bet gan centies nokomunicēt savu viedokli par šo *kaut ko*.
-### Morālais prieks[^moral]
-Ar morālo prieku saprot ļoti īpašu labu sajūtu, kuru var radīt tikai ļoti īpašos veidos, kā, piemēram, dzīvojot jēgpilnu, kārtīgu dzīvi. Senajiem grieķiem tam pat ir vārds - *eudaimonia* (grieķiski: εὐδαιμονία), kas burtiski tulkojas kā *labs gars* un praktiski nozīmē *labklājība* vai *labi nodzīvota dzīve*.
+### Emocionālais prieks
+Ar emocionālo prieku saprot to visiem zināmo patīkamo sajūtu. Tā ir pārejoša, pārsvarā īslaicīga subjektīva pieredze, kad,  piemēram, apēd ko garšīgu, ieraugi ko skaistu utml. Tas ir vienkāršākais un visvieglāk uztveramais "prieka veids"[^emo].
+### Saprātīgais prieks
+Ar saprātīgo prieku saprot cilvēka vispārējo dzīves stāvokli, ko pats cilvēks sauc apmēram par "kopumā esmu apmierināts ar savu dzīvi". Arī izteikumi kā "esmu priecīgs, ka Imantas pedofīls beidzot ir noķerts" liecina par saprātīgā prieka izpausmēm. Saprātīgo prieku ir grūti saukt par sajūtu, drīzāk par veidu kā nodot apkārtējiem savas pārliecības un uzskatus. Paužot saprātīgo prieku parasti neatņemama sastāvdaļa ir mazie vārdiņi "ka" vai "par". Ja esi priecīgs *par kaut ko*, visticamāk endorfīni neskraida pa tavu ķermeni, bet gan centies nokomunicēt savu viedokli par šo *kaut ko*[^prats].
+### Morālais prieks
+Ar morālo prieku saprot ļoti īpašu labu sajūtu, kuru var radīt tikai ļoti īpašos veidos, kā, piemēram, dzīvojot jēgpilnu, kārtīgu dzīvi. Senajiem grieķiem tam pat ir vārds - *eudaimonia* (grieķiski: εὐδαιμονία), kas burtiski tulkojas kā *labs gars* un praktiski nozīmē *labklājība* vai *labi nodzīvota dzīve*[^moral].
 
-Šajā blogā tiks izmantots **saprātīgais** un **morālais** prieka veids jeb precīzāk mikslis starp abiem - kurš nu kurā brīdī vairāk atbilst lietas būtībai. Pilnīgi droši gan varu teikt, ka emocionālais prieks nav tas, par kuru vēlos runāt, ja runa ir par darbu. Tas ir pārāk īslaicīgs, līdz ar to uz to nevar paļauties tik ilglaicīgā lietā kā darbs.
-<br>
-Tas nu šodienai arī viss.
-# -------------------------------
-Ja ir interese un angļu valodas zināšanas, zemāk vari atrast orģinālos grāmatas fragmentus no izmantotās  [prieka grāmatas](https://en.wikipedia.org/wiki/Stumbling_on_Happiness "Stumbling on Happiness").
+# Pielietojums
 
-[def]: There are thousands of books on happiness, and most of them start by asking what happiness really is. As readers quickly learn, this is approximately equivalent to beginning a pilgrimage by marching directly into the first available tar pit, because happiness really is nothing more or less than a word that we word makers can use to indicate anything we please. The problem is that people seem pleased to use this one word to indicate a host of diﬀerent things, which has created a tremendous terminological mess on which several fine scholarly careers have been based. If one slops around in this mess long enough, one comes to see that most disagreements about what happiness really is are semantic disagreements about whether the word ought to be used to indicate this or that, rather than scientific or philosophical disagreements about the nature of this and that. What are the this and the that that happiness most often refers to? The word happiness is used to indicate at least three related things, which we might roughly call emotional happiness, moral happiness, and judgmental happiness.
+Kad esam noskaidrojuši, kas pasaulē pastāv, iespējams izkristalizēt definīcijas, kuras tiks izmantotas šajā blogā: 
+
+**Trešā no darba definīcijām:**
+> Darbs ir ilglaicīgs process, lai sasniegtu vai vismaz pietuvotos nospraustajam mērķim jeb darba uzdevumam. Tajā tiek ieguldīti lieli laika un intelekta resursi un rezultāti tie mērīti pēc padarītā, nevis notērētā. Tas rada pievienoto vērtību intelektuālā vai fiziskā izpausmē. Darbs ir svarīga dzīves sastāvdaļa un nodrošina ne tikai finansiālu ieguvumu, bet arī intelektuālu un emocionālu pienesumu paša cilvēka dzīvē.
+
+**Divi prieka veidi:**
+**saprātīgais** un **morālais** prieks. Precīzāk - mikslis starp abiem, kurš nu kurā brīdī vairāk atbilst lietas būtībai. Pilnīgi droši gan varu teikt, ka emocionālais prieks nav tas, kuru vēlos apcerēt, ja domājam par darbu. Tas ir pārāk īslaicīgs, līdz ar to uz to nevar paļauties tik ilglaicīgā lietā kā darbs.
+
+
+## Un kā Tu definētu šos smagos jēdzienus?
+
+
+P.S.
+Ja ir interese un angļu valodas zināšanas, zemāk vari atrast orģinālos fragmentus no izmantotās  [prieka grāmatas](https://en.wikipedia.org/wiki/Stumbling_on_Happiness "Stumbling on Happiness").
+
+[^def]: > There are thousands of books on happiness, and most of them start by asking what happiness really is. As readers quickly learn, this is approximately equivalent to beginning a pilgrimage by marching directly into the first available tar pit, because happiness really is nothing more or less than a word that we word makers can use to indicate anything we please. The problem is that people seem pleased to use this one word to indicate a host of diﬀerent things, which has created a tremendous terminological mess on which several fine scholarly careers have been based. If one slops around in this mess long enough, one comes to see that most disagreements about what happiness really is are semantic disagreements about whether the word ought to be used to indicate this or that, rather than scientific or philosophical disagreements about the nature of this and that. What are the this and the that that happiness most often refers to? The word happiness is used to indicate at least three related things, which we might roughly call emotional happiness, moral happiness, and judgmental happiness.
 
 [^emo]: > Emotional happiness is the most basic of the trio-so basic, in fact, that we become tongue-tied when we try to define it, as though some bratty child had just challenged us to say what the word the means and in the process made a truly compelling case for corporal punishment. Emotional happiness is a phrase for a feeling, an experience, a subjective state, and thus it has no objective referent in the physical world. ... [Emotional] happiness is the you-know-what-I-mean feeling.
 

@@ -9,7 +9,7 @@ tags: saruna
 **Vidējais darba laiks**: 0.75 slodzes vasarā - 1.5 ziemā.
 **Darbavietā nostrādāts**: 2.5 gadi
 > Man patīk daudz strādāt. Esmu darbaholiķis.
----------
+-----
 ## Darbs, kas rada prieku
 ### Kāds ir tavs oficiālais amats?
 Neatceros, visu laiku mainās. Visu laiku es biju galda spēļu skolotājs, bet tagad esmu vairumtirdzniecības menedžeris Latvijā.
@@ -131,11 +131,9 @@ Atalgojumam atsevišķa skala. Šis ir vienīgais punkts, kas man nepatīk, grib
 
 Esmu ļoti strikts. Līdz gadiem 30 neticu, ka man varētu būt atzīme 10.
 
-*Autora piezīme*: Pāris nedēļas pēc intervijas sazinājos ar intervēto puisi un uzzināju, ka algas pielikums ir noticis un viņš tagad ir pilnībā apmierināts ar savu darbu. Viņš vēlējās labot ielikto atzīmi:
+*Autores piezīme*: Pāris nedēļas pēc intervijas sazinājos ar intervēto puisi un uzzināju, ka algas pielikums ir noticis un viņš tagad ir pilnībā apmierināts ar savu darbu. Viņš vēlējās labot ielikto atzīmi:
 
 **Atzīme** (*labotā*): 9
-
---------
 
 [^apm]: **Apmācības** notiek tā, ka aizbraucam uz veikaliem, aptuveni 1.5 stundā izejam cauri 20-30 spēlēm. Pastāstam noteikumus - vienkāršākām spēlēm bez maz vai 30 sekundes, sarežģītākām vairāk.
 
