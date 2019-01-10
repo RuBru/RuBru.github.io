@@ -17,8 +17,8 @@ index:
 
 post:
   desktop:
-    previous: Iepriekšējā lapa
-    next: Nākamā lapa
+    previous: Iepriekšējais raksts
+    next: Nākamais raksts
     back_to_top: Augšup
     share: Dalies!
   mobile:
@@ -28,8 +28,8 @@ post:
     share: Dalies!
 
 search:
-  search: Es gribu atrast ...
-  no_results: Neko neatradu :(
+  search: Meklēt
+  no_results: Neko neatradu, mēģini vēlreiz!
 
 pagination:
   page: Lapa nr. %d no %d

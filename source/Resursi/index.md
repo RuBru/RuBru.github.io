@@ -9,8 +9,13 @@ Pēc gada ilgas temata "studēšanas", esmu apkopousi dārgakmeņus akmeņogļu 
 # Karjeras gidi
 
 ## [80'000 Hours](https://80000hours.org/ "80'000 Hours")
-*80'000 = aptuveni tik daudz stundas cilvēks mūža garumā pavada strādājot*
+*80'000 = aptuveni tik daudz stundas cilvēks mūža garumā pavada strādājot.*
 Līdz šim vienīgais un patiesi vērtīgais karjeras gids, kuru esmu atradusi, ir 80'000 hours. Šī karjeras gida misija ir palīdzēt cilvēkiem atrast piepildošu karjeru, kas dara labu. 80'000 Hours atbalsta efektīvā altruisma kustību, taču arī, ja neesi altruists un par tādu nedomā kļūt, vienalga iesaku gidu izlasīt. Tas ir vienīgais karjeras gids, kas balstīts uz pētījumiem un ar tiešām zinātnisku fonu, kuru gada laikā esmu atradusi. Tas noteikti palīdzēs gan saprast savas prioritātes, gan iepazīstinās ar vērtīgām idejām, gan dos labu izpratni par pasaulē aktuālo nodarbinātības sfērā. Gids ir diezgan garš, tad ir 13 nodaļas, katra vidēji 20 lappušu gara, tāpēc ieplāno vairākus vakarus jau laicīgi.
+
+# Podkāsti
+
+## [Decisive for job decisions](https://heathbrothers.com/ot/wp-content/uploads/2013/03/Decisive_for_Job_Decisions.mp3 "Decisive for job decisions")
+Labs palīgs, ja esi lēmuma pieņemšanas priekšā. Īpaši, ja lēmums ir smaga dilemma. Ir arī grāmata [Decisive](https://heathbrothers.com/books/decisive/ "Decisive"), kas vispārīgi pastāsta par vienu no lēmumu pieņemšanas paņēmieniem. Viena no grāmatas labākajām īpašībām ir veids, kā tiek pasniegti cilvēka iedzimtie aizspriedumi un kā tos var izmantot savā labā.
 
 # Grāmatas
 
@@ -42,7 +47,7 @@ Brīnišķīga lapa, kurā var atrast garus un pārdomātus ierakstus par visda�
 ## [Bergs Blogo](https://bergsblogo.com "Bergs Blogo")
 Mans nesenais atradums: SAF tehnikas Ziemeļamerikas filiāles vadītāja Jāņa Berga blogs. Gan par uzņēmējdarbību, gan dzīvi ASV, gan arī šim blogam īpaši saistošu tēmu: [darbu](https://bergsblogo.com/2018/03/04/par-to-kas-ir-un-nav-labs-darbs/).
 
-## [Life Hacking]((https://alexvermeer.com/life-hacking/ "Life Hacking") [Alex Vermeer] 
+## [Life Hacking by Alex Vermeer](https://alexvermeer.com/life-hacking/ "Life Hacking")
 Diezgan iespaidīgs cilvēks, kurš sakārtojis savu dzīvi un ir super efektīvs visā, ko dara. Ir interesanti kaut vai tikai apskatīties viņa paradumus un līdz šim uz paša ādas pārbaudītos paņēmienus. 
 
 ## [Road Trip Nation](http://roadtripnation.com/ "Road Trip Nation")
